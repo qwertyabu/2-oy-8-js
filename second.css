@@ -1,0 +1,58 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+
+}
+.head_nav{
+    gap: 200px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: white;
+}
+.mag{
+    align-items: center;
+    display: flex;
+    gap: 8px;
+}
+.admin{
+    height: 600px;
+    background-color: rgba(128, 128, 128, 0.088);
+}
+.senat{
+    margin: auto;
+    width: 300px;
+    background-color: white;
+    text-align: center;
+    justify-items: center;
+    border-radius: 30px;
+}
+.reyting{
+    border-radius: 20px 20px 30px 30px;
+    font-size: 30px;
+    color: white;
+    /* text-align: end; */
+    width: 100%;
+    background: linear-gradient(286.17deg, #E33D0E 0%, #FF7D58 100%);
+    display: flex;
+    gap: 80px; 
+}
+.rasmla{
+    padding-left: 20px;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    padding-top: 20px;
+}
+.zvezda{
+    margin: 5px;
+    background-color: rgba(128, 128, 128, 0.088);
+    border-radius: 20px;
+}
+.id h3{
+    color: #0E0D5D;
+    font-size: 20px;
+
+}
